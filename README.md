@@ -8,7 +8,7 @@ const char *ssid = "<wifi ssid>";
 const char *password = "<wifi password>";
 ```
 
-The service runs on port 80.
+The service runs on port 80. MH-Z19B communicates via hardware serial, with RX/TX using GPIO17 and GPIO16. BME680 communicates via I2C.
 
 ## Necessary Library
 
