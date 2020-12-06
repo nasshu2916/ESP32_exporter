@@ -12,5 +12,5 @@ The service runs on port 80.
 
 ## Necessary Library
 
-https://github.com/WifWaf/MH-Z19  
-https://github.com/SV-Zanshin/BME680
+- https://github.com/WifWaf/MH-Z19  
+- https://github.com/SV-Zanshin/BME680
